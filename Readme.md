@@ -30,7 +30,7 @@ This is the ML implementation of the features preented in our official Repo of H
              |            |
         Get  | reset      |  To reset the whole database and generate new encodings
        Post  |update      |  To add encoding of new user to the database
-        Get  |predict     |  To recognize a face
+       Post  |predict     |  To recognize a face
     
 
     Api Link : https://facereco23.herokuapp.com/
